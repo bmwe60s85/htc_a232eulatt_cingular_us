@@ -3,7 +3,7 @@
 This tree specifies settings for the fully reusable <strong>HTC Desire 626</strong> device for building custom Roms and TWRP recovery.
 
 
-# Device configuration for HTC Desire 626s
+# Device configuration for HTC Desire 626
 ![HTC Desire 626s](http://cdn2.gsmarena.com/vv/pics/htc/htc-desire-626s-5.jpg "HTC Desire 626s")
 ## Spec Sheet
 
