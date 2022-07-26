@@ -3,8 +3,8 @@
 This tree specifies settings for the fully reusable <strong>HTC Desire 626</strong> device for building custom Roms and TWRP recovery.
 
 
- Device configuration for HTC Desire 626s
-
+# Device configuration for HTC Desire 626s
+![HTC Desire 626s](http://cdn2.gsmarena.com/vv/pics/htc/htc-desire-626s-5.jpg "HTC Desire 626s")
 ## Spec Sheet
 
 | Feature                 | Specification                     |
@@ -21,8 +21,3 @@ This tree specifies settings for the fully reusable <strong>HTC Desire 626</stro
 | Display                 | 720 x 1280 pixels                 |
 | Camera                  | 8 MP back, 2 MP front             |
 | Release Date            | July 2015                         |
-
-
-## Device Picture
-
-![HTC Desire 626s](http://cdn2.gsmarena.com/vv/pics/htc/htc-desire-626s-5.jpg "HTC Desire 626s")
